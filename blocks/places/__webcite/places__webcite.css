@@ -1,0 +1,18 @@
+.places__webcite {
+  grid-area: webcite;
+  align-self: end;
+  max-width: 456px;
+}
+
+@media screen and (max-width: 1024px) {
+  .places__webcite {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places__webcite {
+    max-width: 288px;
+    margin: 0 16px;
+  }
+}
