@@ -8,3 +8,5 @@
 * flexbox;
 * grid-layout;
 * адаптивная верстка;
+
+Ссылка на GitHub Pages: https://eastogov.github.io/russian-travel/index.html
