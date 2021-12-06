@@ -1,15 +1,15 @@
-.footer__nav-item {
+.footer__item {
   margin-right: 18px;
   font-size: 16px;
   line-height: 18px;
 }
 
-.footer__nav-item:last-child {
+.footer__item:last-child {
   margin-right: 0;
 }
 
 @media screen and (max-width: 768px) {
-  .footer__nav-item {
+  .footer__item {
     font-size: 24px;
     line-height: 24px;
     margin: 0 0 32px;
@@ -17,7 +17,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  .footer__nav-item:last-child { 
+  .footer__item:last-child { 
     margin: 0;
   }
 }
