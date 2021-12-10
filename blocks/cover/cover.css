@@ -2,10 +2,6 @@
   background-image: url(../../images/cover__trains.jpg);
   background-size: cover;
   overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   max-width: 1184px;
   min-height: 740px;
   z-index: 1;
