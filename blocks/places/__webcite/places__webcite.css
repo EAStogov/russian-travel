@@ -4,13 +4,13 @@
   max-width: 456px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .places__webcite {
     max-width: 352px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .places__webcite {
     max-width: 288px;
     margin: 0 16px;

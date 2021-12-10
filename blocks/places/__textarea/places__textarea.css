@@ -3,19 +3,19 @@
   max-width: 484px;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .places__textarea {
     max-width: 456px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .places__textarea {
     max-width: 352px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .places__textarea {
     max-width: 288px;
     margin: 0 auto;
