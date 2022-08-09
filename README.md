@@ -9,4 +9,7 @@
 * grid-layout;
 * адаптивная верстка;
 
+### Доработать:
+Добавить версию на английском
+
 Ссылка на GitHub Pages: https://eastogov.github.io/russian-travel/index.html
